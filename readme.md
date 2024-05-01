@@ -48,6 +48,10 @@
 ![](stddev.png)
 
 
+
+![](map2.png)
+
+
 ![](suitability_cmp.png)
 
 
