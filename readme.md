@@ -1,58 +1,58 @@
-![](csrmap.png)
+![](maps/csrmap.png)
 
 
 
 
-![](threshold_cmp.png)
-![](hotspot.png)
+![](maps/threshold_cmp.png)
+![](maps/hotspot.png)
 
 
 
 
-![](randomforest.png)
-![](comparison.png)
+![](maps/randomforest.png)
+![](maps/comparison.png)
 
 
 
 
-![](unique_species.png)
+![](maps/unique_species.png)
 
 
 
 
-![](bear_observations.png)
+![](maps/bear_observations.png)
 
 
 
 
-![](lidarmap2.png)
+![](maps/lidarmap2.png)
 
 
 
 
-![](ndvi.png)
+![](maps/ndvi.png)
 
 
 
 
-![](surface_water.png)
+![](maps/surface_water.png)
 
 
 
 
-![](costaccmap.png)
+![](maps/costaccmap.png)
 
 
 
 
-![](stddev.png)
+![](maps/stddev.png)
 
 
 
-![](map2.png)
+![](maps/map2.png)
 
 
-![](suitability_cmp.png)
+![](maps/suitability_cmp.png)
 
 
 
