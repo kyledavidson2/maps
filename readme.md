@@ -2,7 +2,7 @@
 
 
 
-
+![](maps/landuse.png)
 ![](maps/threshold_cmp.png)
 ![](maps/hotspot.png)
 
